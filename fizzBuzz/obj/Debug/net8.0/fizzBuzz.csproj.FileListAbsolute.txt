@@ -1,0 +1,15 @@
+/workspaces/fizzBuzz/fizzBuzz/bin/Debug/net8.0/fizzBuzz
+/workspaces/fizzBuzz/fizzBuzz/bin/Debug/net8.0/fizzBuzz.deps.json
+/workspaces/fizzBuzz/fizzBuzz/bin/Debug/net8.0/fizzBuzz.runtimeconfig.json
+/workspaces/fizzBuzz/fizzBuzz/bin/Debug/net8.0/fizzBuzz.dll
+/workspaces/fizzBuzz/fizzBuzz/bin/Debug/net8.0/fizzBuzz.pdb
+/workspaces/fizzBuzz/fizzBuzz/obj/Debug/net8.0/fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/fizzBuzz/fizzBuzz/obj/Debug/net8.0/fizzBuzz.AssemblyInfoInputs.cache
+/workspaces/fizzBuzz/fizzBuzz/obj/Debug/net8.0/fizzBuzz.AssemblyInfo.cs
+/workspaces/fizzBuzz/fizzBuzz/obj/Debug/net8.0/fizzBuzz.csproj.CoreCompileInputs.cache
+/workspaces/fizzBuzz/fizzBuzz/obj/Debug/net8.0/fizzBuzz.sourcelink.json
+/workspaces/fizzBuzz/fizzBuzz/obj/Debug/net8.0/fizzBuzz.dll
+/workspaces/fizzBuzz/fizzBuzz/obj/Debug/net8.0/refint/fizzBuzz.dll
+/workspaces/fizzBuzz/fizzBuzz/obj/Debug/net8.0/fizzBuzz.pdb
+/workspaces/fizzBuzz/fizzBuzz/obj/Debug/net8.0/fizzBuzz.genruntimeconfig.cache
+/workspaces/fizzBuzz/fizzBuzz/obj/Debug/net8.0/ref/fizzBuzz.dll
